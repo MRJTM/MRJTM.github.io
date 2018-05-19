@@ -269,6 +269,6 @@ defaults:
       comments: true
       share: true
       related: true
-    classes: wide 
-    header:
-      image: /assets/images/head.jpg
+      classes: wide 
+      header:
+        image: /assets/images/head.jpg
